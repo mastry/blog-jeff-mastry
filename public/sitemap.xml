@@ -1,0 +1,63 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://127.0.0.1:1111/projects/blockchain-nanodegree/</loc>
+            
+                <lastmod>2017-07-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/projects/masters-degree/</loc>
+            
+                <lastmod>2017-07-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/projects/the-blog/</loc>
+            
+                <lastmod>2017-07-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/proofs/bayes-rule/</loc>
+            
+                <lastmod>2017-07-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/proofs/conditional-probability/</loc>
+            
+                <lastmod>2017-07-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/proofs/sqrt-2-irrational/</loc>
+            
+                <lastmod>2017-07-02</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://127.0.0.1:1111/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/projects/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/proofs/</loc>
+        </url>
+    
+    
+</urlset>

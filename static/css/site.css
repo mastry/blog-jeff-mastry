@@ -1,0 +1,66 @@
+body{
+    font-family:'Montserrat', sans-serif;
+    background-color: rgb(253,253,253)
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Eczar', serif;
+}
+
+#carouselExampleSlidesOnly {
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    background-color: lightgray
+}
+
+nav a.navbar-brand{
+    color:black;
+}
+nav.navbar{
+    border-bottom-width: 1px;
+    border-bottom-color: lightgray;
+    border-bottom-style: solid
+}
+
+.navbar {
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 40px;
+    
+}
+
+.navbar a {
+    color: #777;
+}
+
+.navbar a.active {
+    color: black;
+    font-weight: bold;
+}
+
+.post-title a{
+    color: rgb(24, 1, 88);
+}
+
+.post-title {
+    font-weight: bold
+}
+
+.post-date {
+    color: #777;
+    font-family: 'Eczar', serif;
+}
+
+div.post-content {
+    margin-top: 25px
+}
+
+.posts .post {
+    margin-bottom: 40px;
+}
+
+.posts .post .post-title{
+    margin-bottom: 0px;
+}

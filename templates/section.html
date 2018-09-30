@@ -1,0 +1,22 @@
+{% extends "index.html" %}
+
+<div class="content mt-2">
+    {% block content %}
+    <div class="posts">
+        {% for post in section.pages %}
+        <div class="post">
+            <h1 class="post-title">
+                <a href="{{ post.permalink }}">
+                    {{ post.title }}
+                </a>
+            </h1>
+            <span class="post-date">{{ post.date | date(format="%Y-%m-%d") }}</span>
+
+            <div>
+                {{ post.content | safe | striptags | truncate }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endblock content %}
+</div>
