@@ -1,8 +1,8 @@
 +++
-title = "Master of Science Mathematics"
+title = "Go Programming Specialization"
 description = ""
-date = 2017-07-14
-weight = 0
+date = 2017-09-28
+weight = 1
 draft = false
 in_search_index = true
 template = "project_page.html"

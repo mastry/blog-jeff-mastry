@@ -1,42 +1,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://127.0.0.1:1111/projects/blockchain-nanodegree/</loc>
+            <loc>https://jeff.mastry.net/projects/blockchain-nanodegree/</loc>
             
                 <lastmod>2017-07-14</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/projects/masters-degree/</loc>
+            <loc>https://jeff.mastry.net/projects/go-programming-spec/</loc>
+            
+                <lastmod>2017-09-28</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://jeff.mastry.net/projects/the-blog/</loc>
             
                 <lastmod>2017-07-14</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/projects/the-blog/</loc>
+            <loc>https://jeff.mastry.net/proofs/bayes-rule/</loc>
             
                 <lastmod>2017-07-14</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/proofs/bayes-rule/</loc>
-            
-                <lastmod>2017-07-14</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/proofs/conditional-probability/</loc>
+            <loc>https://jeff.mastry.net/proofs/conditional-probability/</loc>
             
                 <lastmod>2017-07-11</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/proofs/sqrt-2-irrational/</loc>
+            <loc>https://jeff.mastry.net/proofs/sqrt-2-irrational/</loc>
             
                 <lastmod>2017-07-02</lastmod>
             
@@ -44,19 +44,19 @@
     
     
         <url>
-            <loc>http://127.0.0.1:1111/</loc>
+            <loc>https://jeff.mastry.net/</loc>
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/blog/</loc>
+            <loc>https://jeff.mastry.net/blog/</loc>
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/projects/</loc>
+            <loc>https://jeff.mastry.net/projects/</loc>
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/proofs/</loc>
+            <loc>https://jeff.mastry.net/proofs/</loc>
         </url>
     
     

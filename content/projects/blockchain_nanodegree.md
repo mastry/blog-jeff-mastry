@@ -2,7 +2,7 @@
 title = "Blockchain Nanodegree"
 description = ""
 date = 2017-07-14
-weight = 1
+weight = 2
 draft = false
 in_search_index = true
 template = "project_page.html"
